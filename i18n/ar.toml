@@ -15,6 +15,7 @@ tags = "الوسوم"
 projects = "مشاريعي"  #Change this to "المشاريع" if the site is for an organization.
 about = "عني"  #Change this to "عنا" or "من نحن" if the site is for an organization.
 contact = "تواصل معي"  #Change this to "تواصل معنا" if the site is for an organization.
+pgp = "مفتاح الـPGP"
 privacy = "الخصوصية"
 site_statistics = "إحصائيات المدونة"
 sitemap = "خريطة المدونة"
